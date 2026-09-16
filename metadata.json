@@ -1,0 +1,10 @@
+{
+  "name": "AI Outfit Planner",
+  "description": "Smart wardrobe and AI outfit creator based on personal style, weather, and occasion with curated style packs and affiliate recommendations.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
